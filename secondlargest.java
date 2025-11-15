@@ -1,3 +1,4 @@
+// small update in this branch
 public class SecondLargest {
     public static void main(String[] args) {
         int[] arr = {10, 20, 4, 45, 99, 99};
